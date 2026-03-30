@@ -123,7 +123,8 @@ curl "https://xxx.workers.dev/restart?pwd=你的密码&account=user@gmail.com"
 
 ![环境变量](img/环境变量.png)
 
-### 📢 注意事项
+### 📢 注意事项 
+- ❗ 仅支持 Web 创建的机器
 
 ![注意事项](img/注意：只支持web创建的机器.png)
 
