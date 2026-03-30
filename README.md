@@ -117,7 +117,7 @@ curl "https://xxx.workers.dev/restart?pwd=你的密码&account=user@gmail.com"
 
 ### ⏰ Cron 设置
 
-![Cron 定时](img/Cron 定时.png)
+![Cron 定时](img/Cron定时.png)
 
 ### ⚙️ 环境变量
 
