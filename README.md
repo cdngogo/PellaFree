@@ -147,3 +147,6 @@ curl "https://xxx.workers.dev/restart?pwd=你的密码&account=user@gmail.com"
 👉 点个 **Star ⭐** 支持一下吧！
 
 ---
+## ⚠️ 免责声明
+
+本项目仅供学习研究使用。使用本脚本产生的任何后果由使用者自行承担。请遵守 www.pella.app 的服务条款。
